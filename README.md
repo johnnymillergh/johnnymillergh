@@ -18,3 +18,5 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
   <br><br>
   <!-- <img src="http://s.4cdn.org/image/title/105.gif"> -->
 </p>
+
+![Profile views](https://gpvc.arturio.dev/johnnymillergh)
