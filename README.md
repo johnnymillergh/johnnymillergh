@@ -6,7 +6,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 ## Pinned Repositories
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=vuetify-typescript-playground)](https://github.com/johnnymillergh/vuetify-typescript-playground) [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=devtools-enhancement)](https://github.com/johnnymillergh/devtools-enhancement)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=AndroidJetpackMVVMBoilerplate)](https://github.com/johnnymillergh/AndroidJetpackMVVMBoilerplate) [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=devtools-enhancement)](https://github.com/johnnymillergh/devtools-enhancement)
 
 ---
 
