@@ -50,15 +50,18 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Rancher-informational?style=flat&logo=rancher&logoColor=white&color=2bbc8a)
 
----
+## Connect with me
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="https://twitter.com/ijohnnymiller/" >Follow me on Twitter 💬</a> |
-  <a href="https://www.linkedin.com/in/ijohnnymiller/">Connect me on LinkedIn 👔</a> |
-  <a href="https://johnnymillergh.github.io/">Check out my website 🔗</a>
-  <br><br>
-  <!-- <img src="http://s.4cdn.org/image/title/105.gif"> -->
+  <a href="https://twitter.com/ijohnnymiller" >
+    Follow me on Twitter <img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a> | 
+  <a href="https://www.linkedin.com/in/ijohnnymiller">
+    Connect me on Linkedin <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a> | 
+  <a href="https://instagram.com/ijohnnymiller">
+    Follow me on Instagram <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/johnnymillergh)
