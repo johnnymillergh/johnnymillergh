@@ -12,9 +12,9 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 ## Pinned Repositories
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=AndroidJetpackMVVMBoilerplate&theme=github_dark)](https://github.com/johnnymillergh/AndroidJetpackMVVMBoilerplate) [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=devtools-enhancement&theme=github_dark)](https://github.com/johnnymillergh/devtools-enhancement)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=AndroidJetpackMVVMBoilerplate&theme=github_dark)](https://github.com/johnnymillergh/AndroidJetpackMVVMBoilerplate) [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=python_boilerplate&theme=github_dark)](https://github.com/johnnymillergh/python_boilerplate) 
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=NewVista-for-Customer&theme=github_dark)](https://github.com/johnnymillergh/NewVista-for-Customer) [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=vuetify-typescript-playground&theme=github_dark)](https://github.com/johnnymillergh/vuetify-typescript-playground)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=devtools-enhancement&theme=github_dark)](https://github.com/johnnymillergh/devtools-enhancement) [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=NewVista-for-Customer&theme=github_dark)](https://github.com/johnnymillergh/NewVista-for-Customer)
 
 ## Technologies & Tools
 
