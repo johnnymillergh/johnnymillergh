@@ -18,11 +18,19 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 ## Technologies & Tools
 
+### OS
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows%2011-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+
+### Programming
+
 ![](https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
@@ -31,14 +39,19 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring%20Boot-informational?style=flat&logo=spring-boot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring%20Cloud-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Jetpack-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Build-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Build-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Build-npm-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Build-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=2bbc8a)
+
+### Shell
+
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
+
+### Middleware & Software
 ![](https://img.shields.io/badge/Software-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Software-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Software-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
@@ -49,6 +62,9 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Rancher-informational?style=flat&logo=rancher&logoColor=white&color=2bbc8a)
+
+### Hardware
+![](https://img.shields.io/badge/Hardware-Raspberry%20Pi-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
 
 ## Connect with me
 
@@ -73,4 +89,3 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
