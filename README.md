@@ -21,8 +21,9 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 ### OS
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Raspberry%20Pi%20OS-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows%2011-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
 ### Programming
 
@@ -64,7 +65,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 ![](https://img.shields.io/badge/Tools-Rancher-informational?style=flat&logo=rancher&logoColor=white&color=2bbc8a)
 
 ### Hardware
-![](https://img.shields.io/badge/Hardware-Raspberry%20Pi-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Hardware-Raspberry%20Pi%203/4-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
 
 ## Connect with me
 
@@ -89,3 +90,4 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
