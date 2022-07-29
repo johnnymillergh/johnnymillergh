@@ -24,6 +24,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 ![](https://img.shields.io/badge/OS-Raspberry%20Pi%20OS-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 
 ### Programming
 
@@ -50,9 +51,12 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 ### Shell
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Termux-informational?style=flat&logo=tmux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Windows%20Terminal-informational?style=flat&logo=windows-terminal&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 
 ### Middleware & Software
+
 ![](https://img.shields.io/badge/Software-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Software-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Software-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
@@ -65,6 +69,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 ![](https://img.shields.io/badge/Tools-Rancher-informational?style=flat&logo=rancher&logoColor=white&color=2bbc8a)
 
 ### Hardware
+
 ![](https://img.shields.io/badge/Hardware-Raspberry%20Pi%203/4-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
 
 ## Connect with me
