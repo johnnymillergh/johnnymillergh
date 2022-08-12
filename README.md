@@ -30,7 +30,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 ![](https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
