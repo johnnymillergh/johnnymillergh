@@ -46,6 +46,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 ![](https://img.shields.io/badge/Framework-Jetpack-informational?style=flat&logo=jetpack-compose&logoColor=4285F4&color=2bbc8a)
 ![](https://img.shields.io/badge/Build-Gradle-informational?style=flat&logo=gradle&logoColor=02303A&color=2bbc8a)
 ![](https://img.shields.io/badge/Build-Maven-informational?style=flat&logo=apache-maven&logoColor=C71A36&color=2bbc8a)
+![](https://img.shields.io/badge/Build-Pipenv-informational?style=flat&logo=python&logoColor=3776AB&color=2bbc8a)
 ![](https://img.shields.io/badge/Build-npm-informational?style=flat&logo=npm&logoColor=CB3837&color=2bbc8a)
 ![](https://img.shields.io/badge/Build-Yarn-informational?style=flat&logo=yarn&logoColor=2C8EBB&color=2bbc8a)
 
@@ -53,12 +54,12 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=4EAA25&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Termux-informational?style=flat&logo=tmux&logoColor=1BB91F&color=2bbc8a)
-  ![](https://img.shields.io/badge/Shell-Windows%20Terminal-informational?style=flat&logo=windows-terminal&logoColor=4D4D4D&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Windows%20Terminal-informational?style=flat&logo=windows-terminal&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=5391FE&color=2bbc8a)
 
 ### Middleware & Software
 
-![](https://img.shields.io/badge/Software-MySQL-informational?style=flat&logo=mysql&logoColor=4479A1&color=2bbc8a)
+![](https://img.shields.io/badge/Software-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Software-SQLite-informational?style=flat&logo=sqlite&logoColor=003B57&color=2bbc8a)
 ![](https://img.shields.io/badge/Software-Redis-informational?style=flat&logo=redis&logoColor=DC382D&color=2bbc8a)
 ![](https://img.shields.io/badge/Software-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=FF6600&color=2bbc8a)
