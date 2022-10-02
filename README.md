@@ -53,6 +53,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 ### Shell
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=4EAA25&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-iTerm2-informational?style=flat&logo=iterm2&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Termux-informational?style=flat&logo=tmux&logoColor=1BB91F&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Windows%20Terminal-informational?style=flat&logo=windows-terminal&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=5391FE&color=2bbc8a)
@@ -70,6 +71,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=2496ED&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=326CE5&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Rancher-informational?style=flat&logo=rancher&logoColor=0075A8&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Wireshark-informational?style=flat&logo=wireshark&logoColor=1679A7&color=2bbc8a)
 
 ### Hardware
 
