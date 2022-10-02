@@ -23,7 +23,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=FCC624&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Raspberry%20Pi%20OS-informational?style=flat&logo=raspberrypi&logoColor=A22846&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=0078D6&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows-11&logoColor=0078D6&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=3DDC84&color=2bbc8a)
 
 ### Programming
