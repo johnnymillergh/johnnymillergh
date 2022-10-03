@@ -80,14 +80,14 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 ## Connect with me
 
 <p align="center">
-  <a href="https://twitter.com/ijohnnymiller" >
-    Follow me on Twitter <img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <a href="https://twitter.com/ijohnnymiller">
+    <img aligh="center" alt="Twitter" src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-informational?style=flat&logo=twitter&logoColor=1DA1F2&color=grey"/>
   </a> | 
   <a href="https://www.linkedin.com/in/ijohnnymiller">
-    Connect me on Linkedin <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/Contact%20me%20on%20LinkedIn-informational?style=flat&logo=linkedin&logoColor=0A66C2&color=grey"/>
   </a> | 
   <a href="https://instagram.com/ijohnnymiller">
-    Follow me on Instagram <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="center" alt="Instagram" src="https://img.shields.io/badge/Follow%20me%20on%20Instagram-informational?style=flat&logo=instagram&logoColor=E4405F&color=grey"/>
   </a>
 </p>
 
