@@ -1,18 +1,27 @@
+![](assets/Bottom_up.svg)
+
 # Hi there, I'm Johnny Miller (锺俊)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Full-stack Developer specializing in building Complex Web Services and Web Applications with the latest modern back-end and front-end technologies and architectures leveraging rapidly evolving Web Standards. I'm particularly experienced with Java, Kotlin, JavaScript, TypeScript and SQL. I always love to share the knowledge and ideas with my peers which many times helped me to grow and deepen own understanding of many software engineering concepts and share my achievements online.
+I'm a Full-stack Developer specializing in building Complex Web Services and Web Applications with the latest modern back-end and front-end technologies and architectures leveraging rapidly evolving Web Standards. I'm particularly experienced with Java, Kotlin, Python, JavaScript, TypeScript and SQL. I always love to share the knowledge and ideas with my peers which many times helped me to grow and deepen own understanding of many software engineering concepts and share my achievements online.
 
-[![Johnny's Github profile trophy](https://github-profile-trophy.vercel.app/?username=johnnymillergh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 📈 GitHub Activity Graph:
 
-[![Johnny's github stats](https://github-readme-stats.vercel.app/api?username=johnnymillergh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/johnnymillergh?tab=stars)
+[![Johnny's github stats](https://github-readme-stats.vercel.app/api?username=johnnymillergh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/johnnymillergh?tab=stars) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymillergh&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymillergh&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnnymillergh">
 
 [![ijohnnymiller's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ijohnnymiller&theme=github_dark)](https://wakatime.com/@ijohnnymiller)
 
+<div align="center">
+  <summary>Trophy: Github Profile Trophy</summary>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnnymillergh&theme=onedark"></a>
+</div>
+
+<img src="/github-metrics.svg" alt="Johnny's GitHub Metrics" width="100%">
+
 ## Pinned Repositories
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=AndroidJetpackMVVMBoilerplate&theme=github_dark)](https://github.com/johnnymillergh/AndroidJetpackMVVMBoilerplate) [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=python_boilerplate&theme=github_dark)](https://github.com/johnnymillergh/python_boilerplate) 
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=AndroidJetpackMVVMBoilerplate&theme=github_dark)](https://github.com/johnnymillergh/AndroidJetpackMVVMBoilerplate) [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=python_boilerplate&theme=github_dark)](https://github.com/johnnymillergh/python_boilerplate)
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=devtools-enhancement&theme=github_dark)](https://github.com/johnnymillergh/devtools-enhancement) [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=NewVista-for-Customer&theme=github_dark)](https://github.com/johnnymillergh/NewVista-for-Customer)
 
@@ -80,13 +89,34 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 ## Connect with me
 
+<!-- FC Port - My Home -->
+
+ ```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          108.35904561459262,
+          21.70240158903708
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
+ ```
+
 <p align="center">
   <a href="https://twitter.com/ijohnnymiller">
     <img aligh="center" alt="Twitter" src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-informational?style=flat&logo=twitter&logoColor=1DA1F2&color=grey"/>
-  </a> | 
+  </a> |
   <a href="https://www.linkedin.com/in/ijohnnymiller">
     <img align="center" alt="Linkedin" src="https://img.shields.io/badge/Contact%20me%20on%20LinkedIn-informational?style=flat&logo=linkedin&logoColor=0A66C2&color=grey"/>
-  </a> | 
+  </a> |
   <a href="https://instagram.com/ijohnnymiller">
     <img align="center" alt="Instagram" src="https://img.shields.io/badge/Follow%20me%20on%20Instagram-informational?style=flat&logo=instagram&logoColor=E4405F&color=grey"/>
   </a>
@@ -101,3 +131,5 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+![](assets/Bottom_down.svg)
