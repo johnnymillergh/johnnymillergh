@@ -14,9 +14,11 @@ jobs:
     steps:
       - name: Set Current Year
         id: set-current-year
+        # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#setting-an-output-parameter
         run: echo "CURRENT_YEAR=$(date +'%Y')" >> "$GITHUB_OUTPUT"
       - name: Get Current Year
         run: echo "CURRENT_YEAR = ${{ steps.set-current-year.outputs.CURRENT_YEAR }}"
+      # https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -48,7 +50,7 @@ jobs:
           plugin_licenses_setup: npm ci
 
           plugin_skyline: yes
-          plugin_skyline_year: 2022
+          plugin_skyline_year: ${{ steps.set-current-year.outputs.CURRENT_YEAR }}
           plugin_skyline_frames: 120
           plugin_skyline_quality: 1
 

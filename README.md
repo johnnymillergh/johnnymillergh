@@ -6,10 +6,12 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 ## 📈 GitHub Activity Graph
 
-[![Johnny's github stats](https://github-readme-stats.vercel.app/api?username=johnnymillergh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/johnnymillergh?tab=stars) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymillergh&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| [![Johnny's github stats](https://github-readme-stats.vercel.app/api?username=johnnymillergh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/johnnymillergh?tab=stars) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymillergh&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnnymillergh">
-
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnymillergh">
+</p>
 [![ijohnnymiller's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ijohnnymiller&theme=github_dark)](https://wakatime.com/@ijohnnymiller)
 
 <div align="center">
@@ -112,13 +114,15 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 <p align="center">
   <a href="https://twitter.com/ijohnnymiller">
-    <img aligh="center" alt="Twitter" src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-informational?style=flat&logo=twitter&logoColor=1DA1F2&color=grey"/>
-  </a> |
+    <img align="center" alt="Twitter" src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-informational?style=flat&logo=twitter&logoColor=1DA1F2&color=grey">
+  </a>
+  <span>|</span>
   <a href="https://www.linkedin.com/in/ijohnnymiller">
-    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/Contact%20me%20on%20LinkedIn-informational?style=flat&logo=linkedin&logoColor=0A66C2&color=grey"/>
-  </a> |
+    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/Contact%20me%20on%20LinkedIn-informational?style=flat&logo=linkedin&logoColor=0A66C2&color=grey">
+  </a>
+  <span>|</span>
   <a href="https://instagram.com/ijohnnymiller">
-    <img align="center" alt="Instagram" src="https://img.shields.io/badge/Follow%20me%20on%20Instagram-informational?style=flat&logo=instagram&logoColor=E4405F&color=grey"/>
+    <img align="center" alt="Instagram" src="https://img.shields.io/badge/Follow%20me%20on%20Instagram-informational?style=flat&logo=instagram&logoColor=E4405F&color=grey">
   </a>
 </p>
 
