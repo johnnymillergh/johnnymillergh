@@ -4,31 +4,64 @@
 
 I'm a Full-stack Developer specializing in building Complex Web Services and Web Applications with the latest modern back-end and front-end technologies and architectures leveraging rapidly evolving Web Standards. I'm particularly experienced with Java, Kotlin, Python, JavaScript, TypeScript and SQL. I always love to share the knowledge and ideas with my peers which many times helped me to grow and deepen own understanding of many software engineering concepts and share my achievements online.
 
-## 📈 GitHub Activity Graph
+## 📈 My Activity Graph
 
-| [![Johnny's github stats](https://github-readme-stats.vercel.app/api?username=johnnymillergh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/johnnymillergh?tab=stars) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymillergh&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+<table width="100%">
+  <thead>
+  <!-- Left thead blank intentionally -->
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href='https://github.com/johnnymillergh?tab=stars'>
+          <img src="https://github-readme-stats.vercel.app/api?username=johnnymillergh&theme=transparent&count_private=true&show_icons=true" alt="Johnny's GitHub stats">
+        </a>
+      </td>
+      <td>
+        <a href='https://github.com/anuraghazra/github-readme-stats'>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymillergh&theme=transparent&layout=compact" alt="Johnny's Top Langs">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnymillergh">
-</p>
+<div align="center">
+  <summary>Stat: Wakatime</summary>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ijohnnymiller&theme=transparent">
+</div>
 
-[![ijohnnymiller's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ijohnnymiller&theme=github_dark)](https://wakatime.com/@ijohnnymiller)
+<div align="center">
+  <summary>Stat: GitHub Streak</summary>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnymillergh&theme=transparent">
+</div>
 
 <div align="center">
   <summary>Trophy: Github Profile Trophy</summary>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnnymillergh&theme=onedark"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnnymillergh&no-bg=true"></a>
 </div>
 
-<img src="https://gist.githubusercontent.com/johnnymillergh/18c656e56b86c137ed45ab71b9227ad6/raw/github-metrics.svg" alt="Johnny's GitHub Metrics" width="100%">
+<div align="center">
+  <summary>Trophy: PlayStation Trophy</summary>
+  <a href="https://psnprofiles.com/JohnnyMiller_PS">
+    <img src="https://card.psnprofiles.com/1/JohnnyMiller_PS.png" border="0" alt="Johnny\'s PS Profile">
+  </a>
+</div>
 
-## Pinned Repositories
+<div align="center">
+  <summary>Stat: Github Metrics</summary>
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://gist.githubusercontent.com/johnnymillergh/18c656e56b86c137ed45ab71b9227ad6/raw/github-metrics.svg" alt="Johnny's GitHub Metrics">
+  </a>
+</div>
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=AndroidJetpackMVVMBoilerplate&theme=github_dark)](https://github.com/johnnymillergh/AndroidJetpackMVVMBoilerplate) [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=python_boilerplate&theme=github_dark)](https://github.com/johnnymillergh/python_boilerplate)
+## 📌 Pinned Repositories
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=devtools-enhancement&theme=github_dark)](https://github.com/johnnymillergh/devtools-enhancement) [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=NewVista-for-Customer&theme=github_dark)](https://github.com/johnnymillergh/NewVista-for-Customer)
+[![Pin GitHub Repo, row 1, col 1](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=AndroidJetpackMVVMBoilerplate&theme=transparent)](https://github.com/johnnymillergh/AndroidJetpackMVVMBoilerplate) [![Pin GitHub Repo, row 1, col 2](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=python_boilerplate&theme=transparent)](https://github.com/johnnymillergh/python_boilerplate)
 
-## Technologies & Tools
+[![Pin GitHub Repo, row 2, col 1](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=devtools-enhancement&theme=transparent)](https://github.com/johnnymillergh/devtools-enhancement) [![Pin GitHub Repo, row 2, col 2](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=NewVista-for-Customer&theme=transparent)](https://github.com/johnnymillergh/NewVista-for-Customer)
+
+## 🛠️ Technologies & Tools
 
 ### OS
 
@@ -90,11 +123,16 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 ![](https://img.shields.io/badge/Hardware-Raspberry%20Pi%203/4-informational?style=flat&logo=raspberrypi&logoColor=A22846&color=2bbc8a)
 
-## Connect with me
+## 📫 Connect with me
+
+<a href="mailto:andrej.marinchenko@gmail.com" target="blank">
+  <img align="center" src="assets/Microsoft_Office_Outlook_(2018–present).svg" alt="Gmail" height="30" width="30">
+  <span>Mail to my Outlook</span>
+</a>
 
 <!-- FC Port - My Home -->
 
- ```geojson
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -111,7 +149,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
     }
   ]
 }
- ```
+```
 
 <p align="center">
   <a href="https://twitter.com/ijohnnymiller">
@@ -127,7 +165,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
   </a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/johnnymillergh)
+![Profile Views](https://komarev.com/ghpvc/?username=johnnymillergh&label=PROFILE+VIEWS)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
