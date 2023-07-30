@@ -175,4 +175,4 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-![](assets/bottom.svg)
+![](assets/bottom-wave.svg)
