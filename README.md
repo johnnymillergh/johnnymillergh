@@ -19,7 +19,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnnymillergh&theme=onedark"></a>
 </div>
 
-<img src="/github-metrics.svg" alt="Johnny's GitHub Metrics" width="100%">
+<img src="https://gist.githubusercontent.com/johnnymillergh/18c656e56b86c137ed45ab71b9227ad6/raw/github-metrics.svg" alt="Johnny's GitHub Metrics" width="100%">
 
 ## Pinned Repositories
 
