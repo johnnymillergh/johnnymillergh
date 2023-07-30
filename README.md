@@ -1,10 +1,10 @@
-![](assets/Bottom_up.svg)
+![](assets/top-welcome.svg)
 
 # Hi there, I'm Johnny Miller (锺俊)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a Full-stack Developer specializing in building Complex Web Services and Web Applications with the latest modern back-end and front-end technologies and architectures leveraging rapidly evolving Web Standards. I'm particularly experienced with Java, Kotlin, Python, JavaScript, TypeScript and SQL. I always love to share the knowledge and ideas with my peers which many times helped me to grow and deepen own understanding of many software engineering concepts and share my achievements online.
 
-## 📈 GitHub Activity Graph:
+## 📈 GitHub Activity Graph
 
 [![Johnny's github stats](https://github-readme-stats.vercel.app/api?username=johnnymillergh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/johnnymillergh?tab=stars) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymillergh&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -132,4 +132,4 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-![](assets/Bottom_down.svg)
+![](assets/bottom.svg)
