@@ -1,6 +1,6 @@
 ![](assets/top-welcome.svg)
 
-# Hi there, I'm [Johnny Miller (锺俊)](https://github.com/johnnymillergh/)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm [Johnny Miller (锺俊)](https://github.com/johnnymillergh/)! <img src="assets/wave.gif" width="30px">
 
 I'm a Full-stack Developer specializing in building Complex Web Services and Web Applications with the latest modern back-end and front-end technologies and architectures leveraging rapidly evolving Web Standards. I'm particularly experienced with Java, Kotlin, Python, JavaScript, TypeScript and SQL. I always love to share the knowledge and ideas with my peers which many times helped me to grow and deepen own understanding of many software engineering concepts and share my achievements online.
 
