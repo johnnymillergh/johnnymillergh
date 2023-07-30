@@ -123,7 +123,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 ![](https://img.shields.io/badge/Hardware-Raspberry%20Pi%203/4-informational?style=flat&logo=raspberrypi&logoColor=A22846&color=2bbc8a)
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
 <a href="mailto:andrej.marinchenko@gmail.com" target="blank">
   <img align="center" src="assets/Microsoft_Office_Outlook_(2018–present).svg" alt="Gmail" height="30" width="30">
