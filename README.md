@@ -12,6 +12,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnymillergh">
 </p>
+
 [![ijohnnymiller's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ijohnnymiller&theme=github_dark)](https://wakatime.com/@ijohnnymiller)
 
 <div align="center">
