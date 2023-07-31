@@ -15,9 +15,9 @@ jobs:
       - name: Set Current Year
         id: set-current-year
         # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#setting-an-output-parameter
-        run: echo "CURRENT_YEAR=$(date +'%Y')" >> "$GITHUB_OUTPUT"
-      - name: Get Current Year
-        run: echo "CURRENT_YEAR = ${{ steps.set-current-year.outputs.CURRENT_YEAR }}"
+        run: |
+          echo "Setting current year from: $(date), current system clock time: \n$(timedatectl)"
+          echo "CURRENT_YEAR=$(date +'%Y')" >> "$GITHUB_OUTPUT"
       # https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
       - uses: lowlighter/metrics@latest
         with:

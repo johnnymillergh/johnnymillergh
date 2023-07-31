@@ -1,55 +1,54 @@
-<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     svg {
-    width: 110vw;
-    position: fixed;
-    top: -5px;
-    transform: rotate(360deg);
-    overflow: visible;
+      width: 110vw;
+      position: fixed;
+      top: -5px;
+      transform: rotate(360deg);
+      overflow: visible;
     }
 
     .wave {
-    animation: wave 3s linear;
-    animation-iteration-count: infinite;
-    fill: #0070D1;
+      animation: wave 3s linear;
+      animation-iteration-count: infinite;
+      fill: #0070D1;
     }
 
     .wave:hover {
-    fill: #B993D6;
+      fill: #B993D6;
     }
 
     #wave1 {
-    animation-duration: 6s;
-    animation-direction: reverse;
-    opacity: 1;
+      animation-duration: 6s;
+      animation-direction: reverse;
+      opacity: 1;
     }
 
     #wave2 {
-    animation-duration: 3s;
-    opacity: .6;
+      animation-duration: 3s;
+      opacity: .6;
     }
 
     #wave3 {
-    animation-duration: 2s;
-    opacity: .2;
+      animation-duration: 2s;
+      opacity: .2;
     }
 
     @keyframes wave {
-    to {transform: translateX(-100%);}
+      to {
+        transform: translateX(-100%);
+      }
     }
   </style>
 
   <defs>
     <filter id="anim">
       <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
-      <feColorMatrix in="blur" mode="matrix"
-        values="
+      <feColorMatrix in="blur" mode="matrix" values="
            1 0 0 0 0
            0 1 0 0 0
            0 0 1 0 0
-           0 0 0 13 -9"
-        result="anim" />
+           0 0 0 13 -9" result="anim" />
       <xfeBlend in="SourceGraphic" in2="anim" />
     </filter>
     <path id="wave"
