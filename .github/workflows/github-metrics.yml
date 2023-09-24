@@ -31,37 +31,50 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_introduction: yes
 
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
 
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/achievements/README.md
           plugin_achievements: yes
-
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: C
           plugin_achievements_display: detailed
 
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/calendar/README.md
           plugin_calendar: yes
           plugin_calendar_limit: 3
 
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/habits/README.md
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          plugin_licenses: no
-          plugin_licenses_setup: npm ci
-
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/skyline/README.md
           plugin_skyline: yes
           plugin_skyline_year: ${{ steps.set-current-year.outputs.CURRENT_YEAR }}
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
 
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: chartist
-
-          plugin_support: no
-
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/topics/README.md
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/starlists/README.md
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 0
+          plugin_starlists_only: Awesome
+
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/activity/README.md
+          plugin_activity: yes
+
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
