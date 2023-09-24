@@ -27,11 +27,6 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 </table>
 
 <div align="center">
-  <summary>Stat: Wakatime</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ijohnnymiller&theme=transparent">
-</div>
-
-<div align="center">
   <summary>Stat: GitHub Streak</summary>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnymillergh&theme=transparent">
 </div>
@@ -50,7 +45,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 <div align="center">
   <summary>Stat: Github Metrics</summary>
-  <a href="https://github.com/lowlighter/metrics">
+  <a href="https://github.com/johnnymillergh/johnnymillergh/">
     <img src="https://gist.githubusercontent.com/johnnymillergh/18c656e56b86c137ed45ab71b9227ad6/raw/github-metrics.svg" alt="Johnny's GitHub Metrics">
   </a>
 </div>

@@ -58,6 +58,7 @@ jobs:
           plugin_skyline_year: ${{ steps.set-current-year.outputs.CURRENT_YEAR }}
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
+          # https://honzaap.github.io/GithubCity/?name=johnnymillergh&year=2023
           plugin_skyline_settings: |
             {
               "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
