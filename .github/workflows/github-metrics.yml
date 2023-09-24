@@ -49,7 +49,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          plugin_licenses: yes
+          plugin_licenses: no
           plugin_licenses_setup: npm ci
 
           plugin_skyline: yes
@@ -60,7 +60,7 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts_type: chartist
 
-          plugin_support: yes
+          plugin_support: no
 
           plugin_topics: yes
           plugin_topics_limit: 0
