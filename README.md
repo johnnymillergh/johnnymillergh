@@ -176,7 +176,7 @@ My Home: [FC Port](https://geojson.io/#map=6.42/21.465/108.395)
 
 <p align="center">
   <a href="https://twitter.com/ijohnnymiller">
-    <img align="center" alt="Twitter" src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-informational?style=flat&logo=twitter&logoColor=1DA1F2&color=grey">
+    <img align="center" alt="Twitter" src="https://img.shields.io/badge/Follow%20me%20on%20X-informational?style=flat&logo=x&logoColor=fff&color=grey">
   </a>
   <span>|</span>
   <a href="https://www.linkedin.com/in/ijohnnymiller">
