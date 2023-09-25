@@ -1,7 +1,7 @@
 name: GitHub Metrics
 on:
-  # Schedule weekly updates, https://crontab.guru/#0_0_*_*_SUN
-  schedule: [{ cron: "0 0 * * SUN" }]
+  # Schedule at 00:00 on every 3rd day-of-month, https://crontab.guru/#0_0_*/3_*_*
+  schedule: [{ cron: "0 0 */3 * *" }]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on main
