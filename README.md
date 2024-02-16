@@ -44,6 +44,13 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 </div>
 
 <div align="center">
+  <summary>Stat: Steam</summary>
+  <a href="https://steamcommunity.com/id/ijohnnymiller/">
+    <img src="https://steam-stat.vercel.app/api?profileName=ananto" border="0" alt="Johnny\'s Steam Profile">
+  </a>
+</div>
+
+<div align="center">
   <summary>Stat: Github Metrics</summary>
   <a href="https://github.com/johnnymillergh/johnnymillergh/">
     <img src="https://gist.githubusercontent.com/johnnymillergh/18c656e56b86c137ed45ab71b9227ad6/raw/github-metrics.svg" alt="Johnny's GitHub Metrics">
