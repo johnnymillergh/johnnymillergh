@@ -46,7 +46,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 <div align="center">
   <summary>Stat: Steam</summary>
   <a href="https://steamcommunity.com/id/ijohnnymiller/">
-    <img src="https://steam-stat.vercel.app/api?profileName=ananto" border="0" alt="Johnny\'s Steam Profile">
+    <img src="https://steam-stat.vercel.app/api?profileName=ijohnnymiller" border="0" alt="Johnny\'s Steam Profile">
   </a>
 </div>
 
