@@ -178,7 +178,7 @@ My Home: [FC Port](https://geojson.io/#map=6.42/21.465/108.395)
 
 ## WakaTime Activity
 
-<img src="https://wakatime.com/share/@ijohnnymiller/8108ff9c-bb49-484f-9165-96f2d54a41d6.svg"/>
+<img src="https://wakatime.com/badge/user/b54b63b6-e2a6-41d8-a5df-041c9acd5f14.svg"/>
 
 <p align="center">
   <img align="center" src="https://wakatime.com/share/@ijohnnymiller/1d08d633-e042-47d1-8244-19239b1ddcf6.svg" alt="ijohnnymiller's WakaTime coding activity" />
