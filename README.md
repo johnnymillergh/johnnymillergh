@@ -125,6 +125,14 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 ![](https://img.shields.io/badge/Hardware-Raspberry%20Pi%203/4-informational?style=flat&logo=raspberrypi&logoColor=A22846&color=2bbc8a)
 
+## WakaTime Activity
+
+<img src="https://wakatime.com/badge/user/b54b63b6-e2a6-41d8-a5df-041c9acd5f14.svg"/>
+
+<p align="center">
+  <img align="center" src="https://wakatime.com/share/@ijohnnymiller/1d08d633-e042-47d1-8244-19239b1ddcf6.svg" alt="ijohnnymiller's WakaTime coding activity" />
+</p>
+
 ## 📫 Connect with Me
 
 <a href="mailto:andrej.marinchenko@gmail.com" target="blank">
@@ -175,14 +183,6 @@ My Home: [FC Port](https://geojson.io/#map=6.42/21.465/108.395)
   ]
 }
 ```
-
-## WakaTime Activity
-
-<img src="https://wakatime.com/badge/user/b54b63b6-e2a6-41d8-a5df-041c9acd5f14.svg"/>
-
-<p align="center">
-  <img align="center" src="https://wakatime.com/share/@ijohnnymiller/1d08d633-e042-47d1-8244-19239b1ddcf6.svg" alt="ijohnnymiller's WakaTime coding activity" />
-</p>
 
 <p align="center">
   <a href="https://twitter.com/ijohnnymiller">
