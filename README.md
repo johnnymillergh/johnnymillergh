@@ -59,7 +59,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 ## 📌 Pinned Repositories
 
-[![Pin GitHub Repo, row 1, col 1](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=AndroidJetpackMVVMBoilerplate&theme=transparent)](https://github.com/johnnymillergh/AndroidJetpackMVVMBoilerplate) [![Pin GitHub Repo, row 1, col 2](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=python_boilerplate&theme=transparent)](https://github.com/johnnymillergh/python_boilerplate)
+[![Pin GitHub Repo, row 1, col 1](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=AndroidJetpackMVVMBoilerplate&theme=transparent)](https://github.com/johnnymillergh/AndroidJetpackMVVMBoilerplate) [![Pin GitHub Repo, row 1, col 2](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=python-boilerplate&theme=transparent)](https://github.com/johnnymillergh/python-boilerplate)
 
 [![Pin GitHub Repo, row 2, col 1](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=devtools-enhancement&theme=transparent)](https://github.com/johnnymillergh/devtools-enhancement) [![Pin GitHub Repo, row 2, col 2](https://github-readme-stats.vercel.app/api/pin/?username=johnnymillergh&repo=NewVista-for-Customer&theme=transparent)](https://github.com/johnnymillergh/NewVista-for-Customer)
 
