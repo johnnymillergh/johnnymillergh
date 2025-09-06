@@ -135,7 +135,7 @@ I'm a Full-stack Developer specializing in building Complex Web Services and Web
 
 ## 📫 Connect with Me
 
-<a href="mailto:andrej.marinchenko@gmail.com" target="blank">
+<a href="mailto:johnnysviva@outlook.com" target="blank">
   <img align="center" src="assets/Microsoft_Office_Outlook_(2018–present).svg" alt="Gmail" height="30" width="30">
   <span>Mail to my Outlook</span>
 </a>
